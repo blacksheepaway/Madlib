@@ -47,3 +47,4 @@ completed_madlib = selected_madlib["template"].format(**user_inputs)
 
 # Print the completed madlib to the console
 print(completed_madlib)
+print('Thanks for playing!')
